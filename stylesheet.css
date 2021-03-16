@@ -1,19 +1,25 @@
 
-body {background-color: darkkhaki;}
+body {background-color: purple;}
 
 image {padding: 10px;
 border: 1px deeppink;}
 
 .highlight {
-    color:darkmagenta;
-    background-color: darkred;
+    color: whitesmoke;
+    background-color: black;
     padding: 10px;
     margin: 50px;
 }
 
-
+h1 {font-style: initial;
+font-size: 300%;}
 h2 {font-style: italic;
-}
+font-size: 200%;}
 
-a:link {text-decoration: none; color: black;}
-a:hover {text-decoration: underline; color:red;}
+a:link {text-decoration: none; color: whitesmoke;}
+a:hover {text-decoration: underline; color: cornsilk;}
+
+p {
+    border: 2px solid powderblue;
+    padding: 30px;
+  }
