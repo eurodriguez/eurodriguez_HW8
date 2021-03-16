@@ -1,8 +1,16 @@
 
 body {background-color: darkkhaki;}
 
+image {padding: 10px;
+border: 1px deeppink;}
 
 .highlight {
     color:darkmagenta;
     background-color: darkred;
+    padding: 10px;
+    margin: 50px;
+}
+
+
+h2 {font-style: italic;
 }
